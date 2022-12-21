@@ -1,2 +1,2 @@
-email = "chowkisooraj@gmail.com"
-pas = "soorajkharvi@1"
+email = "user email"
+pas = "your password of linkedin"
